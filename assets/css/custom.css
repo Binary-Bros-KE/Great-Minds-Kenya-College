@@ -199,6 +199,7 @@
 
 .graphic-design-modules-header p span {
     color: var(--navy-blue);
+    font-weight: bold;
 }
 
 @media screen and (max-width: 768px) {

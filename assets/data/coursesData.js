@@ -216,20 +216,20 @@ export const courses = [
         rating: 4
     },
     {
-        name: "Architectural Drawing and Rendering",
-        image: "pictures/technical_courses/arhitectural.webp",
+        name: "TwinMotion",
+        image: "pictures/technical_courses/twinmotion-2023.jpg",
         duration: "2 Months",
         category: "architecture",
         online: "Available",
         certification: "On Completion",
-        price: 35200,
-        discountPrice: 30000,
+        price: 7500,
+        discountPrice: 6500,
         reviews: 21,
         rating: 4
     },
     {
-        name: "2D Drafting and Autocad",
-        image: "pictures/technical_courses/2D-Drafting.jpg",
+        name: "Autocad",
+        image: "pictures/technical_courses/autocad-2024.jpg",
         duration: "2 Months",
         category: "architecture",
         online: "Available",

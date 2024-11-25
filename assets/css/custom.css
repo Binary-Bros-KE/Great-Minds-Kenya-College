@@ -218,3 +218,34 @@
         grid-template-columns: 1fr 1fr;
     }
 }
+
+
+
+/*================================= ENROLL ============*/
+.input-group select {
+    width: 10%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: red;
+    color: #333;
+    transition: border-color 0.3s ease;
+}
+
+.input-group select:focus {
+    border-color: #007bff;
+    outline: none;
+}
+
+.input-group select option {
+    padding: 8px;
+    font-size: 16px;
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+.form-group .input-group {
+    width: 100%;
+    margin: 0;
+}

@@ -182,7 +182,7 @@
 					<div class="col-lg-5 col-md-5 m-b30">
 						<div class="bg-primary text-white contact-info-bx">
 							<h2 class="m-b10 title-head">Contact <span>Information</span></h2>
-							<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+							<p>Requirements for all courses.</p>
 							<h5>Admission Fee: Ksh. 1,000</h5>
 							<h5>A valid Kenyan ID Card/Passport</h5>
 							<div class="widget widget_getintuch">	
@@ -206,7 +206,6 @@
 						<div class="ajax-message"></div>
 							<div class="heading-bx left">
 								<h2 class="title-head">Enroll <span>Online Form</span></h2>
-								<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nisi est voluptatem recusandae numquam impedit, architecto atque.</p>
 							</div>
 							<div class="row placeani">
 								<div class="col-lg-6">
@@ -244,16 +243,20 @@
 								<div class="col-lg-6">
 									<div class="form-group">
 										<div class="input-group">
-											<label>Choose A Course</label>
-											<input name="course" type="text" required class="form-control int-value">
+											 <select id="select-course-input">
+												<option value="">Choose A Course</option>
+											 </select>
 										</div>
 									</div>
 								</div>
 								<div class="col-lg-6">
 									<div class="form-group">
 										<div class="input-group">
-											<label>Mode of Study</label>
-											<input name="studyMode" type="text" required class="form-control">
+											<select id="select-course-input">
+												<option value="">Mode of Study</option>
+												<option value="">Online Classes</option>
+												<option value="">Physical Classes</option>
+											 </select>
 										</div>
 									</div>
 								</div>
@@ -441,6 +444,7 @@
     <button class="back-to-top fa fa-chevron-up" ></button>
 </div>
 <!-- External JavaScripts -->
+<script type="module" src="assets/js/enroll.js"></script>
 <script src="assets/js/jquery.min.js"></script>
 <script src="assets/vendors/bootstrap/js/popper.min.js"></script>
 <script src="assets/vendors/bootstrap/js/bootstrap.min.js"></script>

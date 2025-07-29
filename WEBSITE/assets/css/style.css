@@ -2119,6 +2119,7 @@ button.back-to-top {
 .testimonial-carousel .owl-nav .owl-next,
 .testimonial-carousel .owl-nav .owl-prev{
 	background-color:var(--primary);
+	color: white;
 	margin: 0 5px !important;
 }
 .courses-carousel .owl-nav .owl-next:hover,
@@ -2213,11 +2214,11 @@ button.back-to-top {
 /*   */
 .ovpr-dark:after{
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff5e14+0,ff8e14+100 */
-background: #ff5e14; /* Old browsers */
-background: -moz-linear-gradient(45deg, #ff5e14 0%, #ff8e14 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(45deg, #ff5e14 0%,#ff8e14 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(45deg, #ff5e14 0%,#ff8e14 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff5e14', endColorstr='#ff8e14',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+background: green; /* Old browsers */
+background: -moz-linear-gradient(45deg, green 0%, green 10%); /* FF3.6-15 */
+background: -webkit-linear-gradient(45deg, green 0%,green 10%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(45deg, green 0%,green 10%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='green', endColorstr='green',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 }
 /* Event Box */
 .event-bx{

@@ -1,9 +1,9 @@
 /*===================== 	Premery bg color =====================*/
 :root {
-    --primary: #4c1864;
-    --sc-primary: #4d0a91;
-    --secondary-color: #EFBB20;
-    --navy-blue: #071a2bff;
+    --primary: green;
+    --sc-primary: green;
+    --secondary-color: green;
+    --navy-blue: green;
 }
 
 /* Hex */
@@ -22,7 +22,7 @@
 .pagination-bx.primary .pagination>li>span,
 button.back-to-top,
 .rev-btn {
-    background-color: #4c1864;
+    background-color: green;
 }
 
 /*Hex color :hover */
@@ -51,7 +51,7 @@ button.back-to-top,
 .pagination-bx.primary .pagination>li>span:hover,
 .pagination-bx.primary .pagination>li.active>span,
 .pagination-bx.primary .pagination>li.active>a {
-    background-color: #4d0a91;
+    background-color: green;
 }
 
 /*===================== 	Premery text color =====================*/
@@ -86,7 +86,7 @@ h5 a:hover,
 h6 a:hover,
 .btn.outline,
 .btn-link:hover {
-    color: #4c1864;
+    color: green;
 }
 
 /*===================== 	Secondery bg color =====================*/
@@ -104,7 +104,7 @@ h6 a:hover,
 .ovpr-dark:after,
 .ovpr:after,
 .bg-primary {
-    background-color: #4c1864;
+    background-color: green;
 }
 
 .footer-top,
@@ -136,15 +136,15 @@ h6 a:hover,
 .pricingtable-main,
 .account-head:after {
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#4c1864+0,3f189a+100 */
-    background: #4c1864;
+    background: green;
     /* Old browsers */
-    background: -moz-linear-gradient(45deg, #4c1864 0%, #3f189a 100%);
+    background: -moz-linear-gradient(45deg, green 0%, green 10%);
     /* FF3.6-15 */
-    background: -webkit-linear-gradient(45deg, #4c1864 0%, #3f189a 100%);
+    background: -webkit-linear-gradient(45deg, green 0%, green 10%);
     /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(45deg, #4c1864 0%, #3f189a 100%);
+    background: linear-gradient(45deg, green 0%, green 10%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#4c1864', endColorstr='#3f189a', GradientType=1);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='green', endColorstr='green', GradientType=1);
     /* IE6-9 fallback on horizontal gradient */
 }
 
@@ -164,8 +164,8 @@ button.back-to-top,
 .recent-news-carousel .owl-nav .owl-prev,
 .testimonial-carousel .owl-nav .owl-next,
 .testimonial-carousel .owl-nav .owl-prev {
-    background-color: #f7b205;
-    color: #000;
+    background-color: green;
+    color: white;
 }
 
 .footer_widget ul li a:hover,
@@ -173,7 +173,7 @@ button.back-to-top,
 .header-transparent .secondary-menu .btn-link:hover,
 .header-transparent .menu-links .nav>li:hover>a,
 .header-transparent .menu-links .nav>li.active>a {
-    color: #f7b205;
+    color: green;
 }
 
 .course-info-list ul li a.active:hover,
@@ -189,10 +189,10 @@ button.back-to-top:hover,
 .recent-news-carousel .owl-nav .owl-prev:hover,
 .testimonial-carousel .owl-nav .owl-next:hover,
 .testimonial-carousel .owl-nav .owl-prev:hover {
-    background-color: #4c1864;
+    background-color: green;
     color: #fff;
 }
 
 .heading-bx.left .title-head {
-    border-color: #f7b205;
+    border-color: green;
 }
